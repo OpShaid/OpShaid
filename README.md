@@ -133,7 +133,7 @@ YARA Rules  •  OpenIOC  •  SIEM Integration  •  Zero-Trust Architecture
 
 <div align="center">
 
-[![Security Blog](https://img.shields.io/badge/Blog-Security%20Engineering-FF6B35?style=for-the-badge&logo=hashnode&logoColor=white)](https://ShaidOpsec.hashnode.dev)
+[![Security Blog](https://img.shields.io/badge/Blog-Security%20Engineering-FF6B35?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@ShaidOpsec)
 [![Twitter](https://img.shields.io/badge/Twitter-@SecurityResearch-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anonSecShaid)
 
 </div>
