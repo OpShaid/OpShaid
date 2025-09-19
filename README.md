@@ -80,7 +80,7 @@ YARA Rules  •  OpenIOC  •  SIEM Integration  •  Zero-Trust Architecture
 
 ---
 
-## 🎯 **Elite Security Projects**
+## 🎯 **Some of my Security Projects**
 
 ### 🚨 **HyperScale Threat Detection Platform**
 > **Enterprise-grade security monitoring with ML-enhanced detection capabilities**
@@ -162,9 +162,8 @@ class SecurityToolingDeveloper:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Senior%20Security%20Engineer-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Security Blog](https://img.shields.io/badge/Blog-Threat%20Intelligence%20Research-FF6B35?style=for-the-badge&logo=hashnode&logoColor=white)](https://yourblog.dev)
-[![Twitter](https://img.shields.io/badge/Twitter-@SecurityResearch-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Twitter](https://img.shields.io/badge/Twitter-@SecurityResearch-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anonSecShaid)
 
 </div>
 
@@ -172,10 +171,10 @@ class SecurityToolingDeveloper:
 
 <div align="center">
 
-### 💼 **Open to Senior Security Engineering Opportunities**
+### 💼 **Open to Security Engineering Opportunities**
 *Specialized in threat detection, zero-trust architecture, and enterprise security automation*
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=ShaidT1&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS" />
 
 </div>
 
