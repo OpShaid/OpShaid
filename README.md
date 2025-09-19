@@ -1,10 +1,11 @@
+
 <div align="center">
 
-# Security Infrastructure & Detection Engineering
-### Senior Security Tooling Developer | Threat Intelligence Architect
+# Security Tooling Developer
+### Building threat detection and security automation systems
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Real-time+Threat+Detection+Systems;Zero-Trust+Security+Architecture;Enterprise+SOAR+Automation;Advanced+Persistent+Threat+Analysis" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Threat+Detection+Systems;Security+Automation;MITRE+ATT%26CK+Integration" alt="Typing SVG" />
 </p>
 
 ---
@@ -125,59 +126,35 @@ YARA Rules  •  OpenIOC  •  SIEM Integration  •  Zero-Trust Architecture
 
 ---
 
-## 📈 **Performance Metrics**
+## 📊 **Current Focus & Progress**
 
-<div align="center">
+**Security Infrastructure Development:**
+- Building high-performance threat detection systems with PostgreSQL and Redis
+- Developing zero-trust policy engines using Open Policy Agent (OPA)  
+- Creating automated incident response workflows and SOAR integrations
+- Implementing ML-powered threat classification and behavioral analysis
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
-
-</div>
-
-<div align="center">
-<img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&langs_count=8" />
-</div>
-
----
-
-## 🎖️ **Security Achievements**
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
-
-</div>
-
-**Certifications & Recognition:**
-- 🏆 **Advanced Persistent Threat Detection:** Custom ML models achieving 92% precision
-- 🎯 **Zero-Trust Implementation:** Policy engine processing 1M+ decisions/hour  
-- 📡 **Real-time Response:** Sub-second automated threat containment
-- 🌍 **Global Threat Intelligence:** Multi-source threat feed aggregation
-
----
-
-## 🔬 **Research & Innovation**
+**Enterprise Integration Projects:**
+- FastAPI-based security APIs for SIEM integration
+- Real-time dashboards for SOC analysts and security teams
+- Policy-as-code frameworks for scalable security automation
+- Cloud security orchestration across AWS/Azure environments
 
 ```python
-class ThreatHunter:
+# Current development focus
+class SecurityToolingDeveloper:
     def __init__(self):
-        self.expertise = ["Advanced Persistent Threats", "Zero-Day Analysis", "Behavioral Analytics"]
-        self.current_research = "ML-powered threat actor attribution using network flow analysis"
-        self.tools_developed = ["Enterprise SIEM connectors", "Custom YARA rule generators"]
-    
-    def threat_landscape_analysis(self):
-        return "Continuous monitoring of 50+ threat actor groups with automated IOC extraction"
+        self.current_projects = [
+            "Real-time threat detection platform",
+            "Zero-trust policy automation engine", 
+            "Enterprise security dashboard suite",
+            "MITRE ATT&CK integration framework"
+        ]
+        self.tech_stack = ["Python", "PostgreSQL", "Docker", "FastAPI", "OPA"]
+        
+    def building_for_scale(self):
+        return "Production-ready security tools for enterprise environments"
 ```
-
----
-
-## 📊 **Contribution Activity**
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true)
-
-</div>
 
 ---
 
