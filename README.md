@@ -146,6 +146,7 @@ YARA Rules  •  OpenIOC  •  SIEM Integration  •  Zero-Trust Architecture
 *Specialized in threat detection, zero-trust architecture, and enterprise security automation*
 
 <img src="https://komarev.com/ghpvc/?username=ShaidT1&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS" />
+<!-- Quickdraw badge test commit -->
 
 </div>
 
