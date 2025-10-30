@@ -19,6 +19,4 @@
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-black?style=flat-square)](https://portfolio-alpha-ivory-63.vercel.app) 
 
 
-Code should feel like magic ✨
-
 </div>
