@@ -2,7 +2,8 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
-  <h4>Hey, Im Shaid! I make the computers do the boring work so the result isnt boring.</h4>
+  <h4>Hey, Im Shaid! </h4>
+  <h4>I make the computers do the boring work so the result isnt boring</h4>
 </div>
                   
 
