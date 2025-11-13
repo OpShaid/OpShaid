@@ -1,9 +1,14 @@
+# 👋 Hey, I’m Shaid
 
-# 🌐 My Portfolio
+Thanks for stopping by!  
+Check out my work and get in touch — always down to build cool stuff or collaborate.
 
-Live here 👉 [portfolio-alpha-ivory-63.vercel.app](https://portfolio-alpha-ivory-63.vercel.app/)
+---
 
-## 📬 Contact
-Feel free to reach out — I’m always open to collabs or new opportunities.  
-**Email:** shaidt137@gmail.com  
-**LinkedIn:** [linkedin.com/in/shaid-tiwari](https://linkedin.com/in/shaid-tiwari)  
+[![🌐 Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-alpha-ivory-63.vercel.app/)
+[![💼 LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaid-tiwari)
+[![📧 Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaidt137@gmail.com)
+
+---
+
+![Coding gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
