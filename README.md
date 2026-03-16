@@ -1,45 +1,24 @@
 <div align="center">
 
-### hey i'm shaid 👋
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Kubernetes+%7C+Terraform+%7C+CI%2FCD;Cloud+Infrastructure+Engineer;Building+at+FitMirage+%F0%9F%9A%80;Always+breaking+things+to+fix+them" alt="Typing SVG" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmtlY2Rsa2szMXVhbnhuZmY2cXkzaW92OWk4eTNhMjNzYmNvMjlhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" width="380" />
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=80&lines=Platform+Engineer+%26+DevOps;Kubernetes+%7C+Terraform+%7C+CI%2FCD;Cloud+Infrastructure+%7C+AWS+%7C+Azure;Building+reliable+systems+at+FitMirage" alt="Typing SVG" />
 
 <br/>
 
-<div align="center">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmtlY2Rsa2szMXVhbnhuZmY2cXkzaW92OWk4eTNhMjNzYmNvMjlhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" width="100%" />
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-</div>
+<br/>
 
 ---
 
-<div align="center">
+### 🚀 about me
+
+I'm a **DevOps & Platform Engineer** who's been building and running real cloud infrastructure — Kubernetes clusters, CI/CD pipelines, Terraform-managed environments, monitoring stacks, and incident response. I care about reliability, clean automation, and systems that don't wake people up at 3am.
+
+Currently owning the full platform at **FitMirage**.
+
+---
+
+### 📊 stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=DevShaid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=ffffff" height="160"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevShaid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff" height="160"/>
