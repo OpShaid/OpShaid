@@ -35,8 +35,4 @@ Currently owning the full platform at **FitMirage**.
 [![Portfolio](https://img.shields.io/badge/Portfolio-devshaid.vercel.app-ff6e96?style=for-the-badge&logo=vercel&logoColor=white)](https://devshaid.vercel.app)
 [![Email](https://img.shields.io/badge/Email-shaidt137@gmail.com-ff6e96?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaidt137@gmail.com)
 
-<br/>
 
-![visitors](https://komarev.com/ghpvc/?username=DevShaid&style=flat-square&color=ff6e96&label=profile+views)
-
-</div>
