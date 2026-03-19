@@ -2,11 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=80&lines=Platform+Engineer+%26+DevOps;Kubernetes+%7C+Terraform+%7C+CI%2FCD;Cloud+Infrastructure+%7C+AWS+%7C+Azure;Building+reliable+systems+at+FitMirage" alt="Typing SVG" />
 
-<br/>
-
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGp5dXFpazk2YWIwbjFxMmhzbTBhbmgzYjZibzA5NGZjN3g1YWVzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="75%" />
-
-<br/>
 
 ---
 
