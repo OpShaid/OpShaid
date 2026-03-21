@@ -1,18 +1,13 @@
 <div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=80&lines=Platform+Engineer+%26+DevOps;Kubernetes+%7C+Terraform+%7C+CI%2FCD;Cloud+Infrastructure+%7C+AWS+%7C+Azure;Building+reliable+systems+at+FitMirage" alt="Typing SVG" />
-
 
 ---
 
 ### about me
 
-I'm a **DevOps & Platform Engineer** who's been building and running real cloud infrastructure Kubernetes clusters, CI/CD pipelines, Terraform-managed environments, monitoring stacks, and incident response. I care about reliability, clean automation, and systems that don't wake people up at 3am.
-
+I'm a **DevOps & Platform Engineer** who's been building and running real cloud infrastructure — Kubernetes clusters, CI/CD pipelines, Terraform-managed environments, monitoring stacks, and incident response. I care about reliability, clean automation, and systems that don't wake people up at 3am.
 
 ---
-
-
 
 <br/>
 
@@ -26,7 +21,24 @@ I'm a **DevOps & Platform Engineer** who's been building and running real cloud 
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-devshaid.vercel.app-ff6e96?style=for-the-badge&logo=vercel&logoColor=white)](https://devshaid.vercel.app)
-[![Email](https://img.shields.io/badge/Email-shaidt137@gmail.com-ff6e96?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaidt137@gmail.com)
+---
 
+### 🚀 what i'm building
 
+If you freelance, you know the feeling — you spend hours putting together a proposal, scope, pricing, contracts, and half the time the client just goes quiet.
+
+**ProposalForge** fixes that. Paste any job brief and get a complete, professional proposal in under 60 seconds — scope of work, itemized pricing, payment terms, contract clauses, and a shareable link your client can sign directly.
+
+No blank page. No wasted hours. Starting at $2/mo.
+
+[![ProposalForge](https://img.shields.io/badge/ProposalForge-Live-ff6e96?style=for-the-badge&logoColor=white)](https://propasal-forge.vercel.app/)
+
+---
+
+### connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-ff6e96?style=for-the-badge&logo=vercel&logoColor=white)](https://devshaid.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff6e96?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaid-tiwari-4a14a7369/)
+[![Email](https://img.shields.io/badge/Email-ff6e96?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaidt137@gmail.com)
+
+</div>
