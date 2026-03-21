@@ -23,13 +23,7 @@ I'm a **DevOps & Platform Engineer** who's been building and running real cloud 
 
 ---
 
-### 🚀 what i'm building
-
-If you freelance, you know the feeling — you spend hours putting together a proposal, scope, pricing, contracts, and half the time the client just goes quiet.
-
-**ProposalForge** fixes that. Paste any job brief and get a complete, professional proposal in under 60 seconds — scope of work, itemized pricing, payment terms, contract clauses, and a shareable link your client can sign directly.
-
-No blank page. No wasted hours. Starting at $2/mo.
+### my most recent work:
 
 [![ProposalForge](https://img.shields.io/badge/ProposalForge-Live-ff6e96?style=for-the-badge&logoColor=white)](https://propasal-forge.vercel.app/)
 
