@@ -5,7 +5,7 @@
 
 ### about me
 
-I'm a **DevOps & Platform Engineer** who's been building and running real cloud infrastructure — Kubernetes clusters, CI/CD pipelines, Terraform-managed environments, monitoring stacks, and incident response. I care about reliability, clean automation, and systems that don't wake people up at 3am.
+I'm a **DevOps & Platform Engineer** who's been building and running real cloud infrastructure Kubernetes clusters, CI/CD pipelines, Terraform-managed environments, monitoring stacks, and incident response. I care about reliability, clean automation, and systems that don't wake people up at 3am.
 
 ---
 
